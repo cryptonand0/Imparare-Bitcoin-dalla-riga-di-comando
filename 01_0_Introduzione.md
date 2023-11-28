@@ -57,6 +57,6 @@ Ovviamente, state seguendo questo corso perché siete interessati a Bitcoin. Olt
 
 ## Cosa c'è dopo?
 
-Se desiderate un'introduzione di base a Bitcoin, alla crittografia a chiave pubblica, all'ECC, alle blockchain e a Lightning, leggete il documento [Introduzione a Bitcoin](01_1_Introducing_Bitcoin.md) interludio. 
+Se desiderate un'introduzione di base a Bitcoin, alla crittografia a chiave pubblica, all'ECC, alle blockchain e a Lightning, leggete il documento [Introduzione a Bitcoin](01_1_Introduzione_a_Bitcoin.md) interludio. 
 
 Altrimenti, se siete pronti a immergervi nel corso, andate su [Configura una Bitcoin-Core VPS](02_0_Setting_Up_a_Bitcoin-Core_VPS.md).
